@@ -18,8 +18,8 @@ This is a fully customizable and open-source portfolio template designed to help
   - Animations
 
 ## Technologies Used
-- **Frontend Framework**: React / Next.js / Vue.js (choose one)
-- **Styling**: TailwindCSS / Bootstrap / SCSS (choose one)
+- **Frontend Framework**: React 
+- **Styling**:  Bootstrap 
 - **Deployment**: GitHub Pages / Vercel / Netlify
 
 ## Getting Started with Create React App
